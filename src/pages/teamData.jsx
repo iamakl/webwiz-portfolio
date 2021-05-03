@@ -61,6 +61,7 @@ const teamData = [
             "github":"https://www.github.com/iamakl",
             "linkedin":"https://www.linkedin.com/in/iamakl",
             "instagram":"https://www.instagram.com/iam__akl/"
+            
         
     }
 
